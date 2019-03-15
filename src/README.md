@@ -1,3 +1,5 @@
+![enter image description here](https://lh3.googleusercontent.com/d2xz_LvZSxxTbpOobKFbbdWKSebWUEdDPnZ6vVW94oRBF-KMoMwjl6A7IfuzyVjVQT5FhMPhVuO0 "Logo")
+
 INFINITY MARVEL
 enter image description here
 
@@ -8,11 +10,12 @@ Del mismo modo se mostrará un dato icónico de cada persona para que sea de ayu
 
 Sección de prototipado:
 Baja fidelidad
-enter image description here
-enter image description here
+![enter image description here](https://lh3.googleusercontent.com/uL0B77jS35l7zs_KuyyUtRgB1WbUK8vhkGN8RYYJsPhSpGPURmEBZN-wb2qFV5GBKgTVHmt2Bi_0 "Ipad view")
+
+![enter image description here](https://lh3.googleusercontent.com/Fgrd0N7CcriT6Za7_gpK9ScA5UZ0O-rds5d26J96CqaDijmXvizRsFlUtR-ExofwhGv4TZWP4XM- "Mockup")
 
 Alta fidelidad
-enter image description here
+![enter image description here](https://lh3.googleusercontent.com/H0DOFLRe9OHUNxwgKxRBaIqlVSAEpIodCtiQ8bPFJFV0KsVIjTf1LDramwlIaME7Uv-vxL3YK1rP "Figma")
 https://www.figma.com/proto/VU6FuV2OHiGbg9Y5FIXO1hXc/Untitled?node-id=2%3A0&scaling=scale-down## Historias de usuario:
 
 El usuario ingresará a la aplicación de forma amigable y explicativa y podrá acceder según sea su interés o conocimiento al apartado de categoría por super héroes o bien a la parte de la línea del tiempo donde está ordenado de forma cronológica el seguimiento de las películas.
